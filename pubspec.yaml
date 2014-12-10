@@ -1,0 +1,11 @@
+name: stretch
+description: >
+  The future of scalability, where stretch adapts to the connection medium you use, not the other way around. — Edit
+version: 0.1.0
+authors:
+- Michael Bullington <mikebullingtn@gmail.com>
+homepage: http://www.directcode.org
+#dependencies:
+#  lib_name: any
+dev_dependencies:
+  unittest: any
